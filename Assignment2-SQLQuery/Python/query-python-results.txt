@@ -1,0 +1,40 @@
+Query 1 to get total revenue for online saleschannel, regionwise and itemtypewise
+Result 1
+                               Region         ItemType  SUM(t1.totalrevenue)
+0                                Asia          Clothes            1551011.04
+1                                Asia  Office Supplies            4368316.68
+2                                Asia       Vegetables              19103.44
+3               Australia and Oceania        Baby Food             759202.72
+4               Australia and Oceania           Fruits              70768.05
+5               Australia and Oceania             Meat            2492526.12
+6               Australia and Oceania  Office Supplies            1904138.04
+7   Central America and the Caribbean           Cereal             576782.80
+8   Central America and the Caribbean           Snacks             339490.50
+9                              Europe        Baby Food            2226807.44
+10                             Europe          Clothes             182825.44
+11                             Europe        Cosmetics            4670170.40
+12                             Europe  Office Supplies            2596374.27
+13                             Europe    Personal Care             436683.39
+14                             Europe       Vegetables              26344.26
+15       Middle East and North Africa        Cosmetics            3162704.80
+16       Middle East and North Africa           Fruits              35304.72
+17                 Sub-Saharan Africa           Cereal            1356180.10
+18                 Sub-Saharan Africa           Fruits             129910.92
+19                 Sub-Saharan Africa             Meat            2011149.63
+20                 Sub-Saharan Africa    Personal Care             246415.95
+21                 Sub-Saharan Africa           Snacks            1117953.66
+22                 Sub-Saharan Africa       Vegetables            1245112.92
+
+----------------------------------------------------------------------------------------
+
+Query 2 to get average of total profit, regionwise, order by region and total profit
+Result 2
+                              Region  AVG(totalprofit)
+0                               Asia     653828.592500
+1              Australia and Oceania     326978.431667
+2  Central America and the Caribbean     504740.855000
+3                             Europe     450078.918462
+4       Middle East and North Africa     633447.510000
+5                 Sub-Saharan Africa     272644.417059
+
+----------------------------------------------------------------------------------------
