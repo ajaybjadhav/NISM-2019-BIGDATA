@@ -1,0 +1,5 @@
+# CVS to SQL convertor
+http://www.convertcsv.com/csv-to-sql.htm
+
+# Online SQL executor
+https://www.jdoodle.com/execute-sql-online
