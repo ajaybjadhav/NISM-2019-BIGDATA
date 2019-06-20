@@ -3,3 +3,5 @@ DATA SOURCE:
 http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/
 
 File: 500000 Sales Records
+
+Note: Edit csv file to remove blank spaces from titles of column names. e.g Order ID change to OrderID
