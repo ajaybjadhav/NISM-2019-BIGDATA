@@ -1,0 +1,39 @@
+Asia|Clothes|1551011.04
+Asia|Office Supplies|7630878.78
+Asia|Vegetables|19103.44
+Australia and Oceania|Baby Food|759202.72
+Australia and Oceania|Beverages|445033.55
+Australia and Oceania|Cosmetics|4220728.8
+Australia and Oceania|Fruits|70768.05
+Australia and Oceania|Meat|2492526.12
+Australia and Oceania|Office Supplies|1904138.04
+Central America and the Caribbean|Cereal|576782.8
+Central America and the Caribbean|Snacks|339490.5
+Europe|Baby Food|3439387.44
+Europe|Clothes|430781.76
+Europe|Cosmetics|8128422.4
+Europe|Household|188452.14
+Europe|Office Supplies|2596374.27
+Europe|Personal Care|436683.39
+Europe|Vegetables|26344.26
+Middle East and North Africa|Cereal|835759.1
+Middle East and North Africa|Clothes|861563.52
+Middle East and North Africa|Cosmetics|5999695.6
+Middle East and North Africa|Fruits|46454.07
+Middle East and North Africa|Office Supplies|1316095.41
+Sub-Saharan Africa|Beverages|272410.45
+Sub-Saharan Africa|Cereal|3136719.3
+Sub-Saharan Africa|Clothes|477553.6
+Sub-Saharan Africa|Fruits|219534.9
+Sub-Saharan Africa|Meat|2011149.63
+Sub-Saharan Africa|Office Supplies|3593376.78
+Sub-Saharan Africa|Personal Care|246415.95
+Sub-Saharan Africa|Snacks|1741242.96
+Sub-Saharan Africa|Vegetables|2239878.34
+Asia|555804.17
+Australia and Oceania|429287.275454545
+Central America and the Caribbean|406701.121428571
+Europe|503769.937727273
+Middle East and North Africa|576119.186
+North America|485980.92
+Sub-Saharan Africa|338422.538888889
